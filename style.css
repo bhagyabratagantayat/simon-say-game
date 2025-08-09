@@ -30,3 +30,6 @@ body{
 .userflash{
     background-color: aqua;
 }
+.resetWarning{
+    background-color: red;
+}
