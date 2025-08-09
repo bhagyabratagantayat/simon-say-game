@@ -12,3 +12,15 @@ body{
     display: flex;
     justify-content: center;
 }
+.sky{
+    background-color: skyblue;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.pink{
+    background-color: pink;
+}
