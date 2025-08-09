@@ -12,6 +12,9 @@ body{
     display: flex;
     justify-content: center;
 }
+footer{
+    text-align: right;
+}
 .green{
     background-color: rgb(0,128,0);
 }
