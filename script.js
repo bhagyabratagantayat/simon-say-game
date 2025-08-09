@@ -91,3 +91,4 @@ function reset() {
   userseq = [];
   level = 0;
 }
+
